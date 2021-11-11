@@ -1,0 +1,7 @@
+name: WySkyIsland
+main: me.wyskyisland.wyskyisland.main
+version: 1.0-BETA
+api-version: '1.13'
+description: Open-Source SkyBlock Core Made by TheWylot
+author: TheWylot
+depend: [IridiumSkyBlock,Vault,Citizens,HyperCore]
